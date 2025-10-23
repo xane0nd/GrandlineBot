@@ -13,7 +13,7 @@
 
 # Installation+Run🕸
 ```shell
-git clone https://github.com/ox1nec/GrandlineBot
+git clone https://github.com/xane0nd/GrandlineBot
 cd GrandlineBot
 run.bat
 ```
@@ -21,7 +21,7 @@ run.bat
 **OR**
 
 ```shell
-git clone https://github.com/ox1nec/GrandlineBot
+git clone https://github.com/xane0nd/GrandlineBot
 cd GrandlineBot
 pip install -r requirements.txt
 python bot.py
