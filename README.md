@@ -1,0 +1,2 @@
+# GrandlineBot
+Grandline autofarm bot
